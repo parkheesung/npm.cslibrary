@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/parkheesung/npm.formhelper.git"
+    "url": "git+https://github.com/parkheesung/npm.cslibrary"
   },
   "keywords": [
     "CSharp",
@@ -23,9 +23,9 @@
   },
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/parkheesung/npm.formhelper/issues"
+    "url": "https://github.com/parkheesung/cslibrary/issues"
   },
-  "homepage": "https://github.com/parkheesung/npm.formhelper#readme",
+  "homepage": "https://github.com/parkheesung/cslibrary#readme",
   "dependencies": {
     "npm": "^8.19.0",
     "typescript": "^5.1.6"
