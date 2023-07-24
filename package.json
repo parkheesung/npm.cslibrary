@@ -1,0 +1,33 @@
+{
+  "name": "roslyn.cslibrary",
+  "version": "1.0.0",
+  "description": "Csharp Abstract, Class for TypeScript",
+  "main": "index.ts",
+  "scripts": {
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/parkheesung/npm.formhelper.git"
+  },
+  "keywords": [
+    "CSharp",
+    ".NET",
+    "Class",
+    "Abstract"
+  ],
+  "author": {
+    "name": "Jamie Roslyn",
+    "email": "yunlang97@naver.com",
+    "url": "https://parkheesung.github.io"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/parkheesung/npm.formhelper/issues"
+  },
+  "homepage": "https://github.com/parkheesung/npm.formhelper#readme",
+  "dependencies": {
+    "npm": "^8.19.0",
+    "typescript": "^5.1.6"
+  }
+}
